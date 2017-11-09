@@ -1,7 +1,11 @@
 {
   "name": "ghost-express-api",
   "version": "0.0.0",
-  "private": true,
+  "description": "Ghost api server using expressjs",
+  "author": "anna93",
+  "keywords": [
+    "ghost", "express", "api-server"
+  ],
   "scripts": {
     "start": "node ./bin/www"
   },
