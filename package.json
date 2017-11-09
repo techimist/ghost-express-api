@@ -4,7 +4,9 @@
   "description": "Ghost api server using expressjs",
   "author": "anna93",
   "keywords": [
-    "ghost", "express", "api-server"
+    "ghost",
+    "express",
+    "api-server"
   ],
   "scripts": {
     "start": "node ./bin/www"
@@ -15,6 +17,7 @@
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "morgan": "~1.9.0",
+    "promise-mysql": "^3.1.2",
     "serve-favicon": "~2.4.5"
   }
 }
