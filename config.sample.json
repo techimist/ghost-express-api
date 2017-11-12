@@ -1,6 +1,8 @@
-"mysql": {
-  "host": "ipaddress/domain etc",
-  "user": "username to access db",
-  "password": "user password",
-  "database": "db name"
+{
+  "mysql": {
+    "host": "ipaddress/domain etc",
+    "user": "username to access db",
+    "password": "user password",
+    "database": "db name"
+  }
 }
